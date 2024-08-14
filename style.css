@@ -113,7 +113,7 @@ p.subtitle {
 
 #whatsapp {
     position: fixed;
-    bottom: 5px;
+    bottom: 0.5px;
     right:20px;
 }
 svg {
